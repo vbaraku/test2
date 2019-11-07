@@ -12,7 +12,7 @@ public class DoWhileDemo {
         }
         while(i < 101);
         System.out.println(sum);
-
+        System.out.println("changes");
 
     }
 
